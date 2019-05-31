@@ -1,2 +1,2 @@
-# Jhall9000.github.io
+# Kantoregion
 Class Final.
